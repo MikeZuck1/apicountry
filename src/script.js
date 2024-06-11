@@ -6,6 +6,6 @@ let countryDiv = document.createElement('div');
 
 function search() {
     // va retourner l'input text. 
-    let textCountry = document.querySelector('.text').valeur; // récupère la valeur de l'input. 
+    let textCountry = document.querySelector('.text').value; // récupère la valeur de l'input. 
     countryDiv.innerHTML = `<span>pays</span><br><p>${textCountry}</p>`; 
 }; 
