@@ -1,0 +1,14 @@
+{
+  "name": "apicountries",
+  "version": "1.0.0",
+  "description": "Create an api that alloxs us to see informations about it (countries).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
